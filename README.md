@@ -1,5 +1,5 @@
 # kabirbhatia.github.io
----------------------------------
+
 
 Kabir Bhatia is a casual developer from Palo Alto, California in the heart of the Silicon Valley
 
