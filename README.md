@@ -8,6 +8,6 @@ His past projects include rubikscubers.github.io (no longer availiable), Choose 
 He programs each and every project with <3.
 Happy Hacking!
 ___
-Project/Page Directory-
+####Project/Page Directory-
 
 [ATP Info Page (Molecule Model Project)](/atp/index.html)
