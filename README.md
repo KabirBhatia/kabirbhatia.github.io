@@ -10,4 +10,4 @@ Happy Hacking!
 
 Directory-
 
-[ATP](/atp/index.html)
+[ATP Info Page (Molecule Model Project)](/atp/index.html)
