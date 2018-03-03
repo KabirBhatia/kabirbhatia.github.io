@@ -12,3 +12,4 @@ Happy Hacking!
 #### Project/Page Directory-
 
 [ATP Info Page (Molecule Model Project)](/atp/index.html)
+[HackTheFog Hack] (/hackthefog/index.html)
