@@ -14,3 +14,5 @@ Happy Hacking!
 [ATP Info Page (Molecule Model Project)](/atp/index.html)
 
 [HackTheFog Hack](/hackthefog/index.html)
+
+[404 page](/404.html)
